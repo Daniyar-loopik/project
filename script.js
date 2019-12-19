@@ -1,3 +1,5 @@
+'use strict'; 
+
 let persone = {
     name: "John",
     age: 25,
